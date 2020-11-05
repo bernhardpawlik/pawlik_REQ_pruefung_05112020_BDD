@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pawlik_REQ_pruefung_05112020", "pawlik_REQ_pruefung_05112020\pawlik_REQ_pruefung_05112020.csproj", "{0B4772E0-3548-41DD-ABDE-B21BB7456AB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B4772E0-3548-41DD-ABDE-B21BB7456AB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B4772E0-3548-41DD-ABDE-B21BB7456AB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B4772E0-3548-41DD-ABDE-B21BB7456AB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B4772E0-3548-41DD-ABDE-B21BB7456AB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1480E5BC-286E-46D8-9A17-9B39A39CBCC8}
+	EndGlobalSection
+EndGlobal
